@@ -37,3 +37,6 @@ All configuration files are inside the `config/` directory:
 ## 🛠 Tools Used
 - Cisco Packet Tracer
 - GNS3 (optional)
+
+> ⚠️ License Notice:
+> This project was previously licensed under [MIT](LICENSE). As of 2025-07-04, it is now licensed under [Apache 2.0](LICENSE).
