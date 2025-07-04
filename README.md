@@ -4,7 +4,7 @@
 A simple project to demonstrate how **Network Address Translation (NAT)** works in a small network using Cisco routers.
 
 ## 📌 Goals
-- Configure **Static NAT** and **PAT (Port Address Translation)**
+- Configure **Static NAT**
 - Test internal and external connectivity
 - Understand real-world use cases
 
