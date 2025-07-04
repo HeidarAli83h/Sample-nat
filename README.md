@@ -10,11 +10,6 @@ A simple project to demonstrate how **Network Address Translation (NAT)** works 
 
 ---
 
-## 🗺️ Topology
-
-![Topology](topology.png)
-
----
 
 ## ⚙️ Configuration Files
 
@@ -37,6 +32,12 @@ All configuration files are inside the `config/` directory:
 Check `notes.md` for detailed explanation of NAT, how it works, and troubleshooting tips.
 
 ---
+
+# 📷 Photos
+
+<p align="center">
+  <img src="images/nat.jpg" width="500" alt="Diagram" />
+</p>
 
 ## 🛠 Tools Used
 - Cisco Packet Tracer
