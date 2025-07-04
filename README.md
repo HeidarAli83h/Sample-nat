@@ -27,11 +27,6 @@ All configuration files are inside the `config/` directory:
 
 ---
 
-## 📚 Notes
-
-Check `notes.md` for detailed explanation of NAT, how it works, and troubleshooting tips.
-
----
 
 # 📷 Photos
 
